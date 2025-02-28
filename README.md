@@ -27,7 +27,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Links
 
-- Solution URL: [Add solution URL here](/Users/miguelsousa/Desktop/TestProject/TrainingProject/recipe-page-main/index.html)
+- Solution URL: ((https://pirifolha.github.io/TrainingProject/))
 
 ## My process
 
