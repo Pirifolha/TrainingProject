@@ -27,7 +27,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Links
 
-- Solution URL: [Add solution URL here](/Users/miguelsousa/Desktop/TestProject/TrainingProject/recipe-page-main/index.html)
+- Solution URL: (/Users/miguelsousa/Desktop/TestProject/TrainingProject/recipe-page-main/index.html)
 
 ## My process
 
@@ -42,7 +42,6 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 I learned about tables, lists and a bit about media queries.
 
 
-**Note: Delete this note and the content within this section and replace with your own learnings.**
 
 ### Continued development
 
@@ -51,7 +50,7 @@ I still want to learn more about media queries and about flexbox.
 
 ### Useful resources
 
-- [Example resource 1](https://www.w3schools.com/html/html_tables.asp) - This helped me with tables and also lists.
+- (https://www.w3schools.com/html/html_tables.asp) - This helped me with tables and also lists.
 
 
 ## Author
