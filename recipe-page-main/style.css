@@ -19,7 +19,7 @@ body {
 
 .Recipe {
 margin: 0 auto;
-width: 80vh;
+width: 50vw;
 background-color: white;
 border-radius: 12px;
 padding: 30px;
@@ -126,6 +126,26 @@ td {
     padding-left: 140px;
 }
 
+@media (max-width: 425px) {
+
+    body {
+        background-color: white;
+    }
+
+    .Recipe {
+        width: 100vw;
+        border-radius: 0px;
+    }
+
+    .container {
+        margin: 0;
+    }
+
+    .attribution {
+        display: none;
+    }
+
+}
 
 
 
